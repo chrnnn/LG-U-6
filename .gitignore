@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# data 폴더 안에 있는 파일 업로드 자동으로 제외하기
+data/
